@@ -1,0 +1,90 @@
+STRUTTURA,COMUNE,COLON,MAMMELLA,POLMONE
+A.O. S.Camillo,ROMA,78,101,135
+A.O. S.Filippo Neri,ROMA,32,118,13
+A.O. S.Giovanni Addolorata,ROMA,57,158,4
+A.O.U.U. S.Andrea,ROMA,53,152,115
+A.O.U.U. Tor Vergata,ROMA,29,74,10
+A.O.U.U. Umberto I,ROMA,109,195,50
+C.C.A. Annunziatella,ROMA,4,11,NULL
+C.C.A. Aurelia Hospital,ROMA,10,6,9
+C.C.A. Citta Di Aprilia,APRILIA,5,1,NULL
+C.C.A. Citta' Di Roma,ROMA,2,49,NULL
+C.C.A. Del Sole Tommaso Costa,FORMIA,6,10,NULL
+C.C.A. European Hospital,ROMA,1,3,NULL
+C.C.A. Fabia Mater,ROMA,1,17,NULL
+C.C.A. Guarnieri,ROMA,4,10,NULL
+C.C.A. Madonna Delle Grazie,VELLETRI,NULL,1,NULL
+C.C.A. Nuova Itor,ROMA,5,1,NULL
+C.C.A. S.Anna,CASSINO,2,4,NULL
+C.C.A. S.Anna,POMEZIA,4,9,NULL
+C.C.A. S.Famiglia,ROMA,NULL,2,NULL
+C.C.A. San Marco,LATINA,NULL,19,NULL
+C.C.A. Siglato,CIVITAVECCHIA,1,NULL,NULL
+C.C.A. Villa Gioia,SORA,1,4,NULL
+C.C.A. Villa Pia,ROMA,4,1,NULL
+C.C.A. Villa Tiberina,ROMA,7,9,NULL
+CC Ars Medica,ROMA,4,7,2
+CC Assunzione Di Maria Ss,ROMA,NULL,4,NULL
+CC Madonna Della Fiducia,ROMA,2,2,NULL
+CC Mater Dei,ROMA,3,11,4
+CC Ns Sig.Ra Delle Mercede,ROMA,1,4,NULL
+CC Paideia,ROMA,6,29,2
+CC Pio Xi,ROMA,3,4,13
+CC Quisisana,ROMA,2,12,15
+CC Rome American Hospital,ROMA,NULL,4,NULL
+CC S.Maria Di Leuca,ROMA,NULL,2,NULL
+CC Sanatrix,ROMA,2,14,NULL
+CC Santo Volto,ROMA,NULL,7,NULL
+CC Salvatore Mundi,ROMA,3,13,NULL
+CC Villa Benedetta,ROMA,NULL,19,NULL
+CC Villa Del Rosario,ROMA,2,12,NULL
+CC Villa Luisa,ROMA,NULL,5,NULL
+CC Villa Mafalda,ROMA,NULL,4,NULL
+CC Villa Margherita,ROMA,1,8,NULL
+CC Villa Stuart,ROMA,1,3,NULL
+IRCCSpr  I.D.I.,ROMA,NULL,4,NULL
+IRCCSpr Bambino Gesu`,ROMA,NULL,NULL,1
+IRCCSpub Regina Elena,ROMA,42,266,126
+IRCCSpub S.Gallicano,ROMA,NULL,2,NULL
+Osp. A.Angelucci,SUBIACO,3,1,NULL
+Osp. A.Fiorini,TERRACINA,2,3,NULL
+Osp. Albano Laziale,ALBANO LAZIALE,4,62,NULL
+Osp. Civile Coniugi Bernardini,PALESTRINA,4,NULL,NULL
+Osp. CTO Alesini,ROMA,5,1,NULL
+Osp. Di Anzio E Nettuno,ANZIO,8,43,NULL
+Osp. Di Belcolle,VITERBO,33,94,NULL
+Osp. Di Civita Castellana,CIVITA CASTELLANA,10,NULL,NULL
+Osp. Di Tarquinia,TARQUINIA,5,1,NULL
+Osp. Dono Svizzero,FORMIA,36,5,1
+Osp. F.Spaziani,FROSINONE,8,18,NULL
+Osp. G.Grassi,ROMA,18,16,1
+Osp. L.Parodi Delfino,COLLEFERRO,14,4,NULL
+Osp. Nuovo Regina Margherita,ROMA,NULL,29,NULL
+Osp. Padre Pio,BRACCIANO,4,1,NULL
+Osp. Paolo Colombo,VELLETRI,3,3,NULL
+Osp. S.Benedetto,ALATRI,1,1,NULL
+Osp. S.Camillo De Lellis,RIETI,11,30,NULL
+Osp. S.Eugenio,ROMA,39,43,18
+Osp. S.Giovanni Di Dio,FONDI,8,2,NULL
+Osp. S.Giovanni Evengelista,TIVOLI,15,12,NULL
+Osp. S.Maria Goretti,LATINA,33,45,NULL
+Osp. S.Paolo,CIVITAVECCHIA,20,33,NULL
+Osp. S.Pertini,ROMA,47,77,12
+Osp. S.Scolastica,CASSINO,4,3,NULL
+Osp. S.Sebastiano,FRASCATI,10,13,NULL
+Osp. S.Spirito,ROMA,12,85,NULL
+Osp. SS Gonfalone,MONTEROTONDO,1,NULL,NULL
+Osp. SS.Trinita',SORA,8,57,NULL
+Osp. Villa Betania,ROMA,1,NULL,NULL
+Osp.C. Cristo Re,ROMA,13,12,NULL
+Osp.C. Fatebenefratelli,ROMA,17,49,NULL
+Osp.C. G.Vannini,ROMA,25,22,NULL
+Osp.C. Israelitico,ROMA,NULL,17,NULL
+Osp.C. Regina Apostolorum,ALBANO LAZIALE,17,10,NULL
+Osp.C. S.Carlo Di Nancy,ROMA,11,19,NULL
+Osp.C. S.Pietro Fatebenefratelli,ROMA,43,37,NULL
+Pol.U. A.Gemelli,ROMA,182,355,118
+Pol.U. Campus Biomedico,ROMA,43,100,35
+Pol.U. Columbus,ROMA,36,59,NULL
+Pres. Casilino,ROMA,15,24,NULL
+Pres. Luigi Di Liegro,ROMA,NULL,20,NULL
